@@ -1,4 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
+- Email: innovative.gururaj@gmail.com
+- Phone: 9880370312
 
 ## I'm a software test engineer 
 - 🔭 3.6  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
@@ -6,6 +8,23 @@
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
 - ⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
+
+---
+
+# Skills
+    o	Java
+    o	Python
+    o	Robot frame work automation using Python
+    o	PyTest frame work automation using Python
+    o	Selenium Automation with Java
+    o	TestNG 
+    o	Manual Testing
+    o	Rest API Testing (Postman tool)
+    o	Web services Testing
+    o	DB Testing (Oracle 10g)
+    o	API and DB Automation
+
+---
 
 # Experience 
 
@@ -28,7 +47,6 @@
     o	Automating regression test cases using PyTest Framework.
     o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
-
 
 ##  Company: Emids Technology (Dec 2016 to Aug 2018)
 
