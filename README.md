@@ -7,3 +7,6 @@
 - 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
 - ⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language
 
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gururaj-Allagi&show_icons=true&hide_border=true" />
