@@ -7,6 +7,40 @@
 - 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
 - ⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
 
+# Experience 
+
+## Company: Schneider Electric (Aug 2018 to June 2020)
+#### Role: Software Test Engineer 
+#####   1.  Project: Conext Viewer 
+
+#####   Roles and Responsibilities:
+    o	Involved in user stories analyzing and understanding the requirements.
+    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
+    o	Automating the written test cases using Robot Framework within sprint
+    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and during regression period
+    o	Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
+    o	As a tester, involved in resolving the field customer’s issues.
+
+##### 2.  Project: MiaB
+##### Roles and Responsibilities:
+    o	Automating regression test cases using PyTest Framework.
+    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
+
+
+## Company: Emids Technology (Dec 2016 to Aug 2018)
+#### Role: Associate Test Engineer 
+##### Project: Active Health Management
+
+##### Roles and Responsibilities:
+    o	Involved in user stories analyzing and understanding the requirements.
+    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirement and Functionality of the application and reporting the bugs in Rally.
+    o	Involved in In-Sprint Automation using Keyword Driven Framework
+    o	Attending different review meetings, daily scrum calls and  working on Agile Methodology.
+    o	Involved in 10 working days sprint and Rapid Releases.
+    o	Worked with Development team and BA to resolve quality issues.
+
 
 ---
 
