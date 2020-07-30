@@ -9,10 +9,10 @@
 
 # Experience 
 
-## Company: Schneider Electric (Aug 2018 to June 2020)
-#### Role: Software Test Engineer 
-#####   1.  Project: Conext Viewer 
+## 1.   Company: Schneider Electric (Aug 2018 to June 2020)
 
+### 1.   Project: Conext Viewer
+#### Role: Software Test Engineer  
 #####   Roles and Responsibilities:
     o	Involved in user stories analyzing and understanding the requirements.
     o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
@@ -22,17 +22,18 @@
     o	Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
     o	As a tester, involved in resolving the field customer’s issues.
 
-##### 2.  Project: MiaB
+### 2.  Project: MiaB
+#### Role: Software Test Engineer
 ##### Roles and Responsibilities:
     o	Automating regression test cases using PyTest Framework.
     o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
 
-## Company: Emids Technology (Dec 2016 to Aug 2018)
-#### Role: Associate Test Engineer 
-##### Project: Active Health Management
+## 2.   Company: Emids Technology (Dec 2016 to Aug 2018)
 
+### Project: Active Health Management
+#### Role: Associate Test Engineer 
 ##### Roles and Responsibilities:
     o	Involved in user stories analyzing and understanding the requirements.
     o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirement and Functionality of the application and reporting the bugs in Rally.
