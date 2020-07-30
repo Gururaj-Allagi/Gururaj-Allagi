@@ -9,7 +9,7 @@
 
 # Experience 
 
-## 1.   Company: Schneider Electric (Aug 2018 to June 2020)
+## Company: Schneider Electric (Aug 2018 to June 2020)
 
 ### 1.   Project: Conext Viewer
 #### Role: Software Test Engineer  
@@ -30,7 +30,7 @@
     o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
 
-## 2.   Company: Emids Technology (Dec 2016 to Aug 2018)
+##  Company: Emids Technology (Dec 2016 to Aug 2018)
 
 ### Project: Active Health Management
 #### Role: Associate Test Engineer 
