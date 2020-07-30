@@ -1,5 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - Email: innovative.gururaj@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gururaj-allagi/
 - Phone: 9880370312
 
 ## I'm a software test engineer 
