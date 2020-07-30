@@ -1,10 +1,10 @@
 ### Hi there, I'm Gururaj Allagi 👋
-- Email: innovative.gururaj@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gururaj-allagi/
-- Resume: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_3.6yrs%20exp_Automation%20Testing_Java%2CPython%2CDB%2CAP.pdf
-- Phone: 9880370312
+- **Email**: innovative.gururaj@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
+- **Resume**: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_3.6yrs%20exp_Automation%20Testing_Java%2CPython%2CDB%2CAP.pdf
+- **Phone**: 9880370312
 
-## I'm a software test engineer 
+## I'm a Software Test Engineer!! 
 - 🔭 3.6  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
