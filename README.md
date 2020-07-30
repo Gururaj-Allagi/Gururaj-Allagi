@@ -60,6 +60,12 @@
     o	Involved in 10 working days sprint and Rapid Releases.
     o	Worked with Development team and BA to resolve quality issues.
 
+---
+
+# Education
+### BMS Institute of Technology
+#### Sub: Electrical and Electronics Engineering Total Percentage: 65.01%
+
 
 ---
 
