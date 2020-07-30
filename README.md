@@ -68,6 +68,9 @@
 ### BMS Institute of Technology
 #### Sub: Electrical and Electronics Engineering Total Percentage: 65.01%
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Gururaj-Allagi/Smart_Home_Automation)
 
 ---
 
