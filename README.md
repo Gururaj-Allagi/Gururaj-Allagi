@@ -1,6 +1,7 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - Email: innovative.gururaj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gururaj-allagi/
+- Resume: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_3.6yrs%20exp_Automation%20Testing_Java%2CPython%2CDB%2CAP.pdf
 - Phone: 9880370312
 
 ## I'm a software test engineer 
