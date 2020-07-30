@@ -62,7 +62,7 @@
 
 ---
 
-# Education
+# Education (2011 to 2015)
 ### BMS Institute of Technology
 #### Sub: Electrical and Electronics Engineering Total Percentage: 65.01%
 
