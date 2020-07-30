@@ -1,4 +1,4 @@
-/>### Hi there, I'm Gururaj Allagi 👋
+### Hi there, I'm Gururaj Allagi 👋
 
 ## I'm a software test engineer 
 - 🔭 3.6  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
