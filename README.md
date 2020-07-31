@@ -97,7 +97,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gururaj-Allagi&show_icons=true&hide_border=true" />
+<img align="left" alt="Gururaj-Allagi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gururaj-Allagi&show_icons=true&hide_border=true" />
 
 
 [website]: https://github.com/Gururaj-Allagi
