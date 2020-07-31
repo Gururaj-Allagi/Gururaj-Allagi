@@ -4,6 +4,13 @@
 - **Resume**: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_3.6yrs%20exp_Automation%20Testing_Java%2CPython%2CDB%2CAP.pdf
 - **Phone**: 9880370312
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</br>
+---
+
 ## I'm a Software Test Engineer!! 
 - 🔭 3.6  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
@@ -75,3 +82,9 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gururaj-Allagi&show_icons=true&hide_border=true" />
+
+
+[website]: https://github.com/Gururaj-Allagi
+[instagram]: https://instagram.com/gururaj_allagi
+[linkedin]: https://linkedin.com/in/gururaj-allagi
+[fb]: https://www.facebook.com/gururaj.allagi1/
