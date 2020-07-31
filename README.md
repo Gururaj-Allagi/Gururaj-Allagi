@@ -8,6 +8,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 </br>
 ---
 
@@ -102,3 +104,5 @@
 [instagram]: https://instagram.com/gururaj_allagi
 [linkedin]: https://linkedin.com/in/gururaj-allagi
 [fb]: https://www.facebook.com/gururaj.allagi1/
+[whatsapp]: https://api.whatsapp.com/send?phone=919880370312&text=Hello%20Gururaj%2C%0A%0AHow%20are%20you%3F
+[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
