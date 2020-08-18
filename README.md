@@ -50,6 +50,8 @@
     o	Web services Testing
     o	DB Testing (Oracle 10g)
     o	API and DB Automation
+    o	CI CD
+    o	Docker
 
 ---
 
