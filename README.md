@@ -73,32 +73,32 @@ days Sprint
 ### 2.   Project: Conext Viewer
 #### Role: Software Test Engineer  
 #####   Roles and Responsibilities:
-    o	Involved in user stories analyzing and understanding the requirements.
-    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
-    o	Automating the written test cases using Robot Framework within sprint
-    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
-    o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and during regression period
-    o	Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
-    o	As a tester, involved in resolving the field customer’s issues.
+    o Involved in user stories analyzing and understanding the requirements.
+    o Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
+    o Automating the written test cases using Robot Framework within sprint
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and during regression period
+    o Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
+    o As a tester, involved in resolving the field customer’s issues.
 
 ### 3.  Project: MiaB
 #### Role: Software Test Engineer
 ##### Roles and Responsibilities:
-    o	Automating regression test cases using PyTest Framework.
-    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
-    o	Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
+    o Automating regression test cases using PyTest Framework.
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
 ##  ```Company```: Emids Technology (Dec 2016 to Aug 2018)
 
 ### 4: Active Health Management
 #### Role: Associate Test Engineer 
 ##### Roles and Responsibilities:
-    o	Involved in user stories analyzing and understanding the requirements.
-    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirement and Functionality of the application and reporting the bugs in Rally.
-    o	Involved in In-Sprint Automation using Keyword Driven Framework
-    o	Attending different review meetings, daily scrum calls and  working on Agile Methodology.
-    o	Involved in 10 working days sprint and Rapid Releases.
-    o	Worked with Development team and BA to resolve quality issues.
+    o Involved in user stories analyzing and understanding the requirements.
+    o Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirement and Functionality of the application and reporting the bugs in Rally.
+    o Involved in In-Sprint Automation using Keyword Driven Framework
+    o Attending different review meetings, daily scrum calls and  working on Agile Methodology.
+    o Involved in 10 working days sprint and Rapid Releases.
+    o Worked with Development team and BA to resolve quality issues.
 
 ---
 
