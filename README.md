@@ -40,19 +40,21 @@
 </br>
 ---
 
-    o	Java
-    o	Python
-    o	Robot frame work automation using Python
-    o	PyTest frame work automation using Python
-    o	Selenium Automation with Java
-    o	TestNG 
-    o	Manual Testing
-    o	Rest API Testing (Postman tool)
-    o	Web services Testing
-    o	DB Testing (Oracle 10g)
-    o	API and DB Automation
-    o	CI CD
-    o	Docker
+    o Java
+    o Python
+    o Robot frame work automation using Python
+    o PyTest frame work automation using Python
+    o Selenium Automation with Java
+    o TestNG
+    o Manual Testing
+    o Rest API Testing (Postman tool)
+    o Web services Testing
+    o DB Testing (Oracle 10g)
+    o API and DB Automation
+    o Documentation: MS Office
+    o OS: Windows and Linux
+    o Jenkins CI, CD
+
 
 ---
 
