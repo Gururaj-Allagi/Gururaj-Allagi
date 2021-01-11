@@ -14,7 +14,7 @@
 ---
 
 ## I'm a Software Test Engineer!! 
-- 🔭 4  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+- 🔭 4+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
@@ -67,8 +67,7 @@
 #####   Roles and Responsibilities:
     o Involved in user stories analyzing and understanding the requirements.
     o Automating the written test cases using ATS Framework within sprint
-    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10
-days Sprint
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
 
 ## ```Company```: Schneider Electric R&D (Aug 2018 to June 2020)
 
