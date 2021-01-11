@@ -14,13 +14,14 @@
 ---
 
 ## I'm a Software Test Engineer!! 
-- 🔭 3.6  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+- 🔭 4  years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
 - ⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
 - 👯 Well exeprenced in Jenkins CI CD 
 - 🔭 Good exposure on Docker
+- 👯 Very Good Knowledge on Jira and Rally bug tracking tools
 
 ---
 
@@ -57,9 +58,19 @@
 
 # Experience 
 
-## ```Company```: Schneider Electric (Aug 2018 to June 2020)
+## ```Company```: Citrix R&D (Sep 2020 to Dec 2020)
 
-### 1.   Project: Conext Viewer
+### 1.   Project: ADM (Application Delivery Management)
+#### Role: Senior Automation Test Engineer  
+#####   Roles and Responsibilities:
+    o Involved in user stories analyzing and understanding the requirements.
+    o Automating the written test cases using ATS Framework within sprint
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10
+days Sprint
+
+## ```Company```: Schneider Electric R&D (Aug 2018 to June 2020)
+
+### 2.   Project: Conext Viewer
 #### Role: Software Test Engineer  
 #####   Roles and Responsibilities:
     o	Involved in user stories analyzing and understanding the requirements.
@@ -70,7 +81,7 @@
     o	Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
     o	As a tester, involved in resolving the field customer’s issues.
 
-### 2.  Project: MiaB
+### 3.  Project: MiaB
 #### Role: Software Test Engineer
 ##### Roles and Responsibilities:
     o	Automating regression test cases using PyTest Framework.
@@ -79,7 +90,7 @@
 
 ##  ```Company```: Emids Technology (Dec 2016 to Aug 2018)
 
-### Project: Active Health Management
+### 4: Active Health Management
 #### Role: Associate Test Engineer 
 ##### Roles and Responsibilities:
     o	Involved in user stories analyzing and understanding the requirements.
