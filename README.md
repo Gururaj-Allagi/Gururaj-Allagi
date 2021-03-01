@@ -1,7 +1,7 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
-- **Resume**: https://github.com/Gururaj-Allagi/Gururaj-Allagi/raw/master/Gururaj_Allagi_4yrs_Automation_Python_Java.pdf 
+- **Resume**: https://github.com/Gururaj-Allagi/Gururaj-Allagi/raw/master/Gururaj_Allagi_4yrs_Automation_Python_Java_.pdf
 - **Phone**: +91 9880370312
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
@@ -40,20 +40,22 @@
 </br>
 ---
 
-    o Java
-    o Python
-    o Robot frame work automation using Python
-    o PyTest frame work automation using Python
-    o Selenium Automation with Java
-    o TestNG
-    o Manual Testing
-    o Rest API Testing (Postman tool)
-    o Web services Testing
-    o DB Testing (Oracle 10g)
-    o API and DB Automation
-    o Documentation: MS Office
-    o OS: Windows and Linux
-    o Jenkins CI, CD
+    o	Python
+    o	Java
+    o	Robot frame work automation using Python
+    o	PyTest frame work automation using Python
+    o	API and DB Automation
+    o	Selenium Automation with Java
+    o	TestNG 
+    o	Appium (Mobile Automation)
+    o	Manual Testing
+    o	Rest API Testing (Postman tool)
+    o	Web services Testing
+    o	DB Testing (Oracle 10g, PostgreSQL 11)
+    o	Documentation: MS Office
+    o	OS: Windows and Linux 
+    o	Jenkins CI, CD
+
 
 
 ---
