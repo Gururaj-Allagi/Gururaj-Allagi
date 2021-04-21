@@ -1,7 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
-- **Resume**: https://github.com/Gururaj-Allagi/Gururaj-Allagi/raw/master/Gururaj_Allagi_4yrs_Automation_Python_Java_.pdf
 - **Phone**: +91 9880370312
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
