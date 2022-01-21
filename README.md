@@ -21,7 +21,6 @@
 - 👯 Well exeprenced in Jenkins CI CD 
 - 🔭 Good exposure on Docker
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
-- 🥅 
 
 ---
 
