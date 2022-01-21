@@ -13,14 +13,15 @@
 ---
 
 ## I'm a Software Test Engineer!! 
-- 🔭 4+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+- 🔭 5+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
-- 🥅 Strong experience on Robot Framework and PyTest Framework automation using Python programming language.
-- ⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
+- 🥅 Strong experience on Robot, Behave and PyTest Framework automation using Python programming language.
+- ⚡ Strong experience on POM, TestNG, Cucumber and Keyword driven Framework automation using Java programming language
 - 👯 Well exeprenced in Jenkins CI CD 
 - 🔭 Good exposure on Docker
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
+- 🥅 
 
 ---
 
@@ -39,21 +40,22 @@
 </br>
 ---
 
-    o	Python
-    o	Java
-    o	Robot frame work automation using Python
-    o	PyTest frame work automation using Python
-    o	API and DB Automation
-    o	Selenium Automation with Java
-    o	TestNG 
-    o	Appium (Mobile Automation)
-    o	Manual Testing
-    o	Rest API Testing (Postman tool)
-    o	Web services Testing
-    o	DB Testing (Oracle 10g, PostgreSQL 11)
-    o	Documentation: MS Office
-    o	OS: Windows and Linux 
-    o	Jenkins CI, CD
+o	Python
+o	Java
+o	Robot frame work automation using Python
+o	PyTest frame work automation using Python
+o	API and DB Automation
+o	Selenium Automation with Java
+o	TestNG 
+o	Appium (Mobile Automation)
+o	Manual Testing
+o	Rest API Testing (Postman tool)
+o	Web services Testing
+o	DB Testing (Oracle 10g, PostgreSQL 11)
+o	Documentation: MS Office
+o	OS: Windows and Linux 
+o	Jenkins CI, CD
+
 
 
 
