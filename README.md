@@ -39,21 +39,21 @@
 </br>
 ---
 
-o	Python
-o	Java
-o	Robot frame work automation using Python
-o	PyTest frame work automation using Python
-o	API and DB Automation
-o	Selenium Automation with Java
-o	TestNG 
-o	Appium (Mobile Automation)
-o	Manual Testing
-o	Rest API Testing (Postman tool)
-o	Web services Testing
-o	DB Testing (Oracle 10g, PostgreSQL 11)
-o	Documentation: MS Office
-o	OS: Windows and Linux 
-o	Jenkins CI, CD
+-   Python
+-   Java
+-   Robot frame work automation using Python
+-	PyTest frame work automation using Python
+-	API and DB Automation
+-	Selenium Automation with Java
+-	TestNG 
+-	Appium (Mobile Automation)
+-	Manual Testing
+-	Rest API Testing (Postman tool)
+-	Web services Testing
+-	DB Testing (Oracle 10g, PostgreSQL 11)
+-	Documentation: MS Office
+-	OS: Windows and Linux 
+-	Jenkins CI, CD
 
 
 
