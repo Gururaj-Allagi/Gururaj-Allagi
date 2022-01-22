@@ -132,7 +132,7 @@
 
 ##  ```Company```: Emids Technology (Dec 2016 to Aug 2018)
 
-### 4: Active Health Management
+### 1: Active Health Management
 #### Role: Associate Test Engineer 
 ##### Roles and Responsibilities:
     o Involved in user stories analyzing and understanding the requirements.
