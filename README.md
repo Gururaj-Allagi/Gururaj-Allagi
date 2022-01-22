@@ -77,12 +77,12 @@
 #### Payrole: Crowning Consulting
 #### Role: Senior Automation Test Engineer  
 #####   Roles and Responsibilities:
-    o	Involved in user stories analyzing and understanding the requirements.
-    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
-    o	Automating the written test cases using Cucumber Framework.
-    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
-    o	Pushing Test script to BitBucket and running during regression period
-    o	Manual Testing done in Android devices, Web and in TV’s
+    o Involved in user stories analyzing and understanding the requirements.
+    o Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
+    o Automating the written test cases using Cucumber Framework.
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o Pushing Test script to BitBucket and running during regression period
+    o Manual Testing done in Android devices, Web and in TV’s
 
 
 ## ```Company```: Beckman Coulter (Jan 2021 to May 2021)
@@ -91,11 +91,11 @@
 #### Payrole: TEK Systems
 #### Role: Senior Automation Test Engineer  
 #####   Roles and Responsibilities:
-    o	Involved in user stories analyzing and understanding the requirements.
-    o	Writing test cases and reporting bugs in Bugzilla tool.
-    o	Automating the written test cases using Keyword Driven framework in Java on functional vise.
-    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint.
-    o	Involved in mobile automation using Java Appium.
+    o Involved in user stories analyzing and understanding the requirements.
+    o Writing test cases and reporting bugs in Bugzilla tool.
+    o Automating the written test cases using Keyword Driven framework in Java on functional vise.
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint.
+    o Involved in mobile automation using Java Appium.
 
 
 ## ```Company```: Citrix R&D (Sep 2020 to Dec 2020)
