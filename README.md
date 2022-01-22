@@ -9,7 +9,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+      👈 These are active links, Please click and explore
 </br>
+
+
 ---
 
 ## I'm a Software Test Engineer!! 
@@ -55,9 +58,6 @@
 -	DB Testing (Oracle 10g, PostgreSQL 11)
 -	Jenkins CI, CD
 
-
-
-
 ---
 
 # Experience 
@@ -69,7 +69,7 @@
 - ####  Client 3: Beckman Coulter
 ### 3.	Crowning Consulting [05/2021 to till date]
 - ####  Client 1: TATA Elxsi
-
+##
 
 ## ```Company```: TATA Elxsi (May 2021 to till date)
 
