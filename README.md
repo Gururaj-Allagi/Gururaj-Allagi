@@ -41,18 +41,18 @@
 
 -   Python
 -   Java
--   Robot frame work automation using Python
--	PyTest frame work automation using Python
+-   Robot framework automation using Python
+-	PyTest framework automation using Python
+-	Behave framework automation using Python
+-	Cucumber framework automation using Java
 -	API and DB Automation
--	Selenium Automation with Java
+-	Selenium Automation
 -	TestNG 
 -	Appium (Mobile Automation)
 -	Manual Testing
 -	Rest API Testing (Postman tool)
 -	Web services Testing
 -	DB Testing (Oracle 10g, PostgreSQL 11)
--	Documentation: MS Office
--	OS: Windows and Linux 
 -	Jenkins CI, CD
 
 
@@ -62,18 +62,57 @@
 
 # Experience 
 
+### 1.	Emids Technology [12/2016 to 08/2018]	
+### 2.	TEK Systems [08/2018 to 05/2021]
+- ####  Client 1: Schenider Electric R&D
+- ####  Client 2: Citric R&D
+- ####  Client 3: Beckman Coulter
+### 3.	Crowning Consulting [05/2021 to till date]
+- ####  Client 1: TATA Elxsi
+
+
+## ```Company```: TATA Elxsi (May 2021 to till date)
+
+### 1.  Project: DSTV Now
+#### Payrole: Crowning Consulting
+#### Role: Senior Automation Test Engineer  
+#####   Roles and Responsibilities:
+    o	Involved in user stories analyzing and understanding the requirements.
+    o	Involved in identifying Test Scenarios and creation of Test Cases according to the clients Requirements and Functionality of the application and reporting the bugs in Jira tools.
+    o	Automating the written test cases using Cucumber Framework.
+    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o	Pushing Test script to BitBucket and running during regression period
+    o	Manual Testing done in Android devices, Web and in TV’s
+
+
+## ```Company```: Beckman Coulter (Jan 2021 to May 2021)
+
+### 1.   Project: Health Trender Anemia
+#### Payrole: TEK Systems
+#### Role: Senior Automation Test Engineer  
+#####   Roles and Responsibilities:
+    o	Involved in user stories analyzing and understanding the requirements.
+    o	Writing test cases and reporting bugs in Bugzilla tool.
+    o	Automating the written test cases using Keyword Driven framework in Java on functional vise.
+    o	Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint.
+    o	Involved in mobile automation using Java Appium.
+
+
 ## ```Company```: Citrix R&D (Sep 2020 to Dec 2020)
 
 ### 1.   Project: ADM (Application Delivery Management)
+#### Payrole: TEK Systems
 #### Role: Senior Automation Test Engineer  
 #####   Roles and Responsibilities:
     o Involved in user stories analyzing and understanding the requirements.
     o Automating the written test cases using ATS Framework within sprint
     o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
 
+
 ## ```Company```: Schneider Electric R&D (Aug 2018 to June 2020)
 
-### 2.   Project: Conext Viewer
+### 1.   Project: Conext Viewer
+#### Payrole: TEK Systems
 #### Role: Software Test Engineer  
 #####   Roles and Responsibilities:
     o Involved in user stories analyzing and understanding the requirements.
@@ -84,7 +123,7 @@
     o Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
     o As a tester, involved in resolving the field customer’s issues.
 
-### 3.  Project: MiaB
+### 2.  Project: MiaB
 #### Role: Software Test Engineer
 ##### Roles and Responsibilities:
     o Automating regression test cases using PyTest Framework.
