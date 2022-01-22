@@ -1,5 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
+- **Resume**: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_Allagi_5yrs_Automation_Python_Java.docx
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
 - **Phone**: +91 9880370312
 
