@@ -22,7 +22,7 @@
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on Robot, Behave and PyTest Framework automation using Python programming language.
 - ⚡ Strong experience on POM, TestNG, Cucumber and Keyword driven Framework automation using Java programming language
-- 👯 Well exeprenced in Jenkins CI CD 
+- 👯 Well experienced in Jenkins CI CD 
 - 🔭 Good exposure on Docker
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
 
