@@ -17,7 +17,7 @@
 ---
 
 ## I'm a Software Test Engineer!! 
-- 🔭 5+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+- 🔭 8+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on Robot, Behave and PyTest Framework automation using Python programming language.
