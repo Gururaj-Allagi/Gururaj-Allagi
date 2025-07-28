@@ -1,6 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
-- **Resume**: https://github.com/Gururaj-Allagi/Resume/raw/master/Gururaj_Allagi_5yrs_Automation_Python_Java.docx
+- **Resume**: 
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
 - **Phone**: +91 9880370312
 
@@ -20,9 +20,9 @@
 - 🔭 8+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
-- 🥅 Strong experience on Robot, Behave and PyTest Framework automation using Python programming language.
-- ⚡ Strong experience on POM, TestNG, Cucumber and Keyword driven Framework automation using Java programming language
-- 👯 Well experienced in Jenkins CI CD 
+- 🥅 Strong experience on **PlayWright**, **Robot**, **Behave**, and **PyTest** Framework automation using **Python** programming language.
+- ⚡ Strong experience on **POM**, **TestNG**, **Cucumber** and **Keyword driven** Framework automation using **Java** programming language
+- 👯 Well experienced in Jenkins **CI CD **
 - 🔭 Good exposure on Docker
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
 
