@@ -22,8 +22,8 @@
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on **PlayWright**, **Robot**, **Behave**, and **PyTest** Framework automation using **Python** programming language.
 - ⚡ Strong experience on **POM**, **TestNG**, **Cucumber** and **Keyword driven** Framework automation using **Java** programming language
-- 👯 Well experienced in Jenkins **CI CD **
-- 🔭 Good exposure on Docker
+- 👯 Well experienced in Jenkins **CI** **CD**
+- 🔭 Good exposure on Docker and Docker Pipelines
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
 
 ---
@@ -46,33 +46,56 @@
 -   Python
 -   Java
 -   Robot framework automation using Python
--	PyTest framework automation using Python
--	Behave framework automation using Python
--	Cucumber framework automation using Java
--	API and DB Automation
--	Selenium Automation
--	TestNG 
--	Appium (Mobile Automation)
--	Manual Testing
--	Rest API Testing (Postman tool)
--	Web services Testing
--	DB Testing (Oracle 10g, PostgreSQL 11)
--	Jenkins CI, CD
+-   PyTest framework automation using Python
+-   Behave framework automation using Python
+-   PlayWrite framework automation using Python
+-   Cucumber framework automation using Java
+-   Keyword driven framework automation using Java
+-   API and DB Automation
+-   Selenium Automation
+-   TestNG
+-   Appium (Mobile Automation)
+-   Manual Testing
+-   Rest API Testing (Postman tool)
+-   Jenkins, Docker (CI, CD)
 
 ---
 
 # Experience 
 
-### 1.	Emids Technology [12/2016 to 08/2018]	
-### 2.	TEK Systems [08/2018 to 05/2021]
-- ####  Client 1: Schenider Electric R&D
-- ####  Client 2: Citric R&D
-- ####  Client 3: Beckman Coulter
-### 3.	Crowning Consulting [05/2021 to till date]
-- ####  Client 1: TATA Elxsi
-##
+#### 1.	Emids Technology [12/2016 to 08/2018]	
+#### 2.	TEK Systems [08/2018 to 05/2021]
+- Client 1: Schenider Electric R&D
+- Client 2: Citric R&D
+- Client 3: Beckman Coulter
+#### 3.	Crowning Consulting [05/2021 to 04/2022]
+- Client 1: TATA Elxsi
+#### 4.	TEK Systems [04/2022 to 12/2023]
+- Client 1: Schenider Electric R&D
+#### 5.	Juniper Network [12/2023 to till date]
 
-## ```Company```: TATA Elxsi (May 2021 to till date)
+## ```Company```: Juniper Networks (Dec 2023 to till date)
+### 1.  Project: Mist AI
+#### Role: Senior Software Test Engineer
+##### Roles and Responsibilities:
+    o Involved in user stories analyzing and understanding the requirements.
+    o Automating sanity and regression test cases using PyTest Framework.
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o Involved in evey month push cycle 
+    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
+
+## ```Company```: Schneider Electric R&D (Apr 2022 to Dec 2023)
+
+### 1.  Project: MiaB
+#### Payrole: TEK Systems
+#### Role: Software Test Engineer
+##### Roles and Responsibilities:
+    o Involved in user stories analyzing and understanding the requirements.
+    o Automating regression test cases using PyTest Framework.
+    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
+    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
+
+## ```Company```: TATA Elxsi (May 2021 to Apr 2022)
 
 ### 1.  Project: DSTV Now
 #### Payrole: Crowning Consulting
@@ -124,12 +147,6 @@
     o Running production API’s on daily basis using Jenkins job and reporting the issues on Jira tool.
     o As a tester, involved in resolving the field customer’s issues.
 
-### 2.  Project: MiaB
-#### Role: Software Test Engineer
-##### Roles and Responsibilities:
-    o Automating regression test cases using PyTest Framework.
-    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
-    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
 ##  ```Company```: Emids Technology (Dec 2016 to Aug 2018)
 
