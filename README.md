@@ -60,9 +60,7 @@
 -   Jenkins, Docker (CI, CD)
 
 ---
-
 # Experience 
-
 #### 1.	Emids Technology [12/2016 to 08/2018]	
 #### 2.	TEK Systems [08/2018 to 05/2021]
 - Client 1: Schenider Electric R&D
@@ -73,6 +71,7 @@
 #### 4.	TEK Systems [04/2022 to 12/2023]
 - Client 1: Schenider Electric R&D
 #### 5.	Juniper Network [12/2023 to till date]
+---
 
 ## ```Company```: Juniper Networks (Dec 2023 to till date)
 ### 1.  Project: Mist AI
