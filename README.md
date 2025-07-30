@@ -90,7 +90,7 @@
 #### Role: Software Test Engineer
 ##### Roles and Responsibilities:
     o Involved in user stories analyzing and understanding the requirements.
-    o Automating regression test cases using PyTest Framework.
+    o Automating regression test cases using PlayWright Framework.
     o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
