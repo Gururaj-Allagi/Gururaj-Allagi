@@ -50,7 +50,7 @@
 -   Robot framework automation using Python
 -   PyTest framework automation using Python
 -   Behave framework automation using Python
--   PlayWrite framework automation using Python
+-   PlayWright framework automation using Python
 -   Cucumber framework automation using Java
 -   Keyword driven framework automation using Java
 -   API and DB Automation
@@ -84,6 +84,8 @@
     o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o Involved in evey month push cycle 
     o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
+    o Implemented Slack–AI integration to trigger Jenkins CI/CD pipelines directly from Slack channels.
+    o Developed AI-powered Git workflow automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands, ensuring seamless, conflict-free merges and accelerating release cycles.
 
 ## ```Company```: Schneider Electric R&D (Apr 2022 to Dec 2023)
 
