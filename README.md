@@ -17,11 +17,13 @@
 ---
 
 ## I'm a Software Test Engineer!! 
-- 🔭 8.6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
+- 🔭 9 years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on **PlayWright**, **Robot**, **Behave**, and **PyTest** Framework automation using **Python** programming language.
 - ⚡ Strong experience on **POM**, **TestNG**, **Cucumber** and **Keyword driven** Framework automation using **Java** programming language
+- 🧠 Implemented **Slack–AI** integration to trigger Jenkins CI/CD pipelines directly from Slack channels.
+- 🙌🏻 Developed **AI-powered Git workflow** automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands, ensuring seamless, conflict-free merges and accelerating release cycles.
 - 👯 Well experienced in Jenkins **CI** **CD**
 - 🔭 Good exposure on Docker and Docker Pipelines
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
