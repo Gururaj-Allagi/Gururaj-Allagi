@@ -1,6 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
-- **Resume**: 
+- **Resume**: [9yrs_Gururaj_python_playwright_selenium.pdf](https://github.com/Gururaj-Allagi/Gururaj-Allagi/blob/master/9yrs_Gururaj_python_playwright_selenium.pdf)
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
 - **Phone**: +91 9880370312
 
@@ -22,8 +22,8 @@
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
 - 🥅 Strong experience on **PlayWright**, **Robot**, **Behave**, and **PyTest** Framework automation using **Python** programming language.
 - ⚡ Strong experience on **POM**, **TestNG**, **Cucumber** and **Keyword driven** Framework automation using **Java** programming language
-- 🧠 Implemented **Slack–AI** integration to trigger Jenkins CI/CD pipelines directly from Slack channels.
-- 🙌🏻 Developed **AI-powered Git workflow** automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands, ensuring seamless, conflict-free merges and accelerating release cycles.
+- 🧠 Implemented **[Slack–AI](https://github.com/Gururaj-Allagi/Slack-AI-Jenkins-Jobs)** integration to trigger Jenkins CI/CD pipelines directly from Slack channels.
+- 🙌🏻 Developed **[AI-powered Git workflow](https://github.com/Gururaj-Allagi/Slack-AI-GitOps)** automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands, ensuring seamless, conflict-free merges and accelerating release cycles.
 - 👯 Well experienced in Jenkins **CI** **CD**
 - 🔭 Good exposure on Docker and Docker Pipelines
 - 👯 Very Good Knowledge on Jira and Rally bug tracking tools
