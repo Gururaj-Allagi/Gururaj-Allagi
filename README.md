@@ -79,8 +79,10 @@
 ### 1.  Project: Mist AI
 #### Role: Senior Software Test Engineer
 ##### Roles and Responsibilities:
-    o Involved in user stories analyzing and understanding the requirements.
-    o Automating sanity and regression test cases using PyTest Framework.
+    o Enhanced PyTest Automation Framework: Upgraded legacy libraries to latest versions while maintaining backward compatibility and ensuring zero failures in existing test cases.
+    o Built scalable Selenium test suites for regression, smoke, and sanity tests.
+    o Mentored interns on Python-Selenium, reviewed PRs, and provided best practices.
+    o Managed Jenkins pipelines for nightly builds and report generation.
     o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o Involved in evey month push cycle 
     o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
@@ -93,8 +95,12 @@
 #### Payrole: TEK Systems
 #### Role: Software Test Engineer
 ##### Roles and Responsibilities:
+    o Led a QA team of 4, conducted sprint planning and daily scrums.
+    o Designed and implemented end-to-end test automation using Playwright (Python).
+    o Integrated test cases with Azure DevOps pipelines and Docker-based test execution.
+    o Collaborated closely with developers and product owners for quality gates.
     o Involved in user stories analyzing and understanding the requirements.
-    o Automating regression test cases using PlayWright Framework.
+    o Automating regression test cases using **PlayWright** Framework.
     o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
     o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
 
