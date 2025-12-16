@@ -77,7 +77,7 @@
 
 ## ```Company```: Juniper Networks (Dec 2023 to till date)
 ### 1.  Project: Mist AI
-#### Role: Senior Software Test Engineer
+#### Role: QA Engineer 3
 ##### Roles and Responsibilities:
     o Enhanced PyTest Automation Framework: Upgraded legacy libraries to latest versions while maintaining backward compatibility and ensuring zero failures in existing test cases.
     o Built scalable Selenium test suites for regression, smoke, and sanity tests.
@@ -93,7 +93,7 @@
 
 ### 1.  Project: MiaB
 #### Payrole: TEK Systems
-#### Role: Software Test Engineer
+#### Role: Associate Test Lead
 ##### Roles and Responsibilities:
     o Led a QA team of 4, conducted sprint planning and daily scrums.
     o Designed and implemented end-to-end test automation using Playwright (Python).
