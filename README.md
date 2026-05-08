@@ -1,6 +1,6 @@
 ### Hi there, I'm Gururaj Allagi 👋
 - **Email**: innovative.gururaj@gmail.com
-- **Resume**: [9yrs_Gururaj_python_playwright_selenium.pdf](https://github.com/Gururaj-Allagi/Gururaj-Allagi/raw/refs/heads/master/9yrs_Gururaj_python_playwright_selenium.pdf)
+- **Resume**: [9yrs_Gururaj_python_playwright_selenium.pdf](https://github.com/Gururaj-Allagi/Resume/blob/master/Gururaj_Allagi_QA_Automation_AI_Engineer_Resume.pdf)
 - **LinkedIn**: https://www.linkedin.com/in/gururaj-allagi/
 - **Phone**: +91 9880370312
 
