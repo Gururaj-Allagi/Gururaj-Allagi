@@ -17,6 +17,15 @@
 ---
 
 ## I'm a Software Test Engineer!! 
+
+KEY HIGHLIGHTS
+* Reduced QA framework size from 5+ GB → under 100 MB and replaced 10-year-old libs with modern libs
+* Built AI bots handling Jenkins CI/CD triggering, failure analysis via natural language
+* Designed a self-healing Selenium framework using coordinate-based locator recovery — tests survive XPath
+changes automatically
+* Built Playwright + Chrome MCP pipeline that reads feature docs, navigates the live app, and generates both
+manual test cases and automation scripts — then validates them in a real browser automatically
+
 - 🔭 9 years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
 - 👯 Proficient in Selenium Test Automation using Java and Python programming languages.
@@ -79,16 +88,18 @@
 ### 1.  Project: Mist AI
 #### Role: QA Engineer 3
 ##### Roles and Responsibilities:
-    o Enhanced PyTest Automation Framework: Upgraded legacy libraries to latest versions while maintaining backward compatibility and ensuring zero failures in existing test cases.
-    o Built scalable Selenium test suites for regression, smoke, and sanity tests.
-    o Mentored interns on Python-Selenium, reviewed PRs, and provided best practices.
-    o Managed Jenkins pipelines for nightly builds and report generation.
-    o Attending different review meetings, daily scrum calls and working on Agile Methodology with 10 days Sprint
-    o Involved in evey month push cycle 
-    o Pushing Test script to GitHub and running the scripts in Jenkins on daily basis, on every build and on regression period
-    o Implemented Slack–AI integration to trigger Jenkins CI/CD pipelines directly from Slack channels.
-    o Developed AI-powered Git workflow automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands, ensuring seamless, conflict-free merges and accelerating release cycles.
-
+      • Shrunk the QA framework from 5 GB → under 100 MB by replacing 10-year-old dependencies with modern libs — zero regressions, 5+ teams migrated to the new repo
+      • Implemented Slack–AI integration to trigger Jenkins CI/CD pipelines directly from Slack channels — teams trigger, stop, and list CI/CD jobs across 15+ cloud environments without VPN, powered by GPT-4o function calling (Engineered a natural language Jenkins controller via Slack)
+      • Built an AI-powered Jenkins failure analyzer that filters console log noise, identifies root cause, and auto-posts structured failure reports to Slack after every build
+      • Designed a GitHub Copilot instruction system that converts meeting transcripts into TestRail-ready test cases, Selenium XPath libraries, and PyTest automation files — end-to-end with zero manual template work
+      • Built an AI-driven test generation pipeline using Playwright + Chrome MCP server — AI agent reads feature requirement docs and discussion transcripts, navigates the live application in real browser, discovers actual UI elements and XPaths, and auto-generates TestRail-ready manual test cases + framework-compliant automation scripts in one workflow
+      • Enabled real-time AI browser execution — generated manual test cases are validated against the live app via Chrome MCP, with the AI agent performing actual clicks, inputs, and assertions in a real browser session, catching UI mismatches before any human runs the tests
+      • Built a self-healing XPath system — on locator failure, Selenium falls back to stored screen coordinates via document.elementFromPoint(), keeping tests alive without manual fixes
+      • Built 2000+ scalable Selenium test cases for regression, smoke, and sanity across multiple Mist AI features
+      • Managed nightly Jenkins pipelines across staging and production environments for automated build validation
+      • Mentored 5 interns on Python-Selenium best practices, reviewed PRs, and enforced code quality standards
+      • Developed AI-powered Git workflow automation to perform code reviews, auto-resolve merge conflicts, and raise pull requests from Slack commands
+      
 ## ```Company```: Schneider Electric R&D (Apr 2022 to Dec 2023)
 
 ### 1.  Project: MiaB
