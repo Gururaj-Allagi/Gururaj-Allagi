@@ -19,12 +19,11 @@
 ## I'm a Software Test Engineer!! 
 
 KEY HIGHLIGHTS
-* Reduced QA framework size from 5+ GB → under 100 MB and replaced 10-year-old libs with modern libs
-* Built AI bots handling Jenkins CI/CD triggering, failure analysis via natural language
-* Designed a self-healing Selenium framework using coordinate-based locator recovery — tests survive XPath
-changes automatically
-* Built Playwright + Chrome MCP pipeline that reads feature docs, navigates the live app, and generates both
-manual test cases and automation scripts — then validates them in a real browser automatically
+
+      * Reduced QA framework size from 5+ GB → under 100 MB and replaced 10-year-old libs with modern libs
+      * Built AI bots handling Jenkins CI/CD triggering, failure analysis via natural language
+      * Designed a self-healing Selenium framework using coordinate-based locator recovery — tests survive XPath changes automatically
+      * Built Playwright + Chrome MCP pipeline that reads feature docs, navigates the live app, and generates both manual test cases and automation scripts — then validates them in a real browser automatically
 
 - 🔭 9 years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
